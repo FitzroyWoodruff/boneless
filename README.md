@@ -1,2 +1,3 @@
-# boneless
- Boneless is a FSE Wordpress theme
+# Boneless
+
+Boneless is a FSE (Full Site Editing) Wordpress theme
